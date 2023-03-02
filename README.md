@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">I'm a frontend developer</h3>
+# Myself
 
-- 🔭 I’m currently working on **Freelance**
+My name is Pablo, I am a student from Spain. I have been learning self-taught web programming for two years. I am always excited about facing new challenges and new technologies to learn
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **Freelance Projects**
+
+<h3 align="left">Your can contact me on:</h3>
 <p align="left">
 <a href="https://twitter.com/pablo304_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablo304_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pablo muñoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo muñoz" height="30" width="40" /></a>
