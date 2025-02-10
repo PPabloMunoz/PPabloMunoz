@@ -6,7 +6,6 @@ My name is Pablo, I am a student from Spain. I have been learning self-taught we
 
 <h3 align="left">Your can contact me on:</h3>
 <p align="left">
-<a href="https://twitter.com/pablo304_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablo304_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pablo muñoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo muñoz" height="30" width="40" /></a>
 </p>
 
